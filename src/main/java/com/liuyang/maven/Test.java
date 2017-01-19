@@ -21,5 +21,6 @@ public class Test {
 	
 	public void dev2(){
 		System.out.println("dev创建方法，但是在master提交");
+		System.out.println("master提交");
 	}
 }
