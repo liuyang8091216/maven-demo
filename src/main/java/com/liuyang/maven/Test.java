@@ -14,4 +14,8 @@ public class Test {
 		System.out.println("def");
 		System.out.println("alalei");
 	}
+	
+	public void dev(){
+		System.out.println("this id dev");
+	}
 }
