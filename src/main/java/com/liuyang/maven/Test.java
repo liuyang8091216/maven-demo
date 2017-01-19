@@ -1,5 +1,7 @@
 package com.liuyang.maven;
 
+import org.eclipse.jdt.internal.compiler.batch.Main;
+
 /****
  * 
  * @author 刘阳阳
@@ -7,4 +9,7 @@ package com.liuyang.maven;
  */
 public class Test {
 
+	public static void main(String[] args) {
+		
+	}
 }
