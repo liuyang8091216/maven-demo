@@ -24,5 +24,6 @@ public class Test {
 		System.out.println("master提交");
 		System.out.println("现在屎feature1添加");
 		System.out.println("储存现场之后");
+		System.out.println("在主分支上不commit或者add 能切换分支吗？");
 	}
 }
